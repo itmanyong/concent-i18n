@@ -18,6 +18,8 @@ yarn add concent-i18n
 
 ```javaScript
 // 注册
+import { run } from 'concent';
+run()//已run则跳过
 import { runI18n,setMessage,setLang } from 'concent-i18n';
 runI18n();
 // 设置locales
