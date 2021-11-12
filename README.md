@@ -1,5 +1,3 @@
-## <a >食用 DEMO</a>
-
 ## <a href="https://github.com/itmanyong/concent-i18n/issues">建议反馈</a>
 
 ## 食用方式

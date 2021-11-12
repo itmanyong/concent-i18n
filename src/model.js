@@ -1,10 +1,10 @@
 /*
  * @Author: itmanyong
  * @Date: 2021-11-12 09:55:53
- * @LastEditTime: 2021-11-12 13:52:32
+ * @LastEditTime: 2021-11-12 14:05:02
  * @LastEditors: itmanyong
  * @Description:
- * @FilePath: \cxy-react-i18n\src\model.js
+ * @FilePath: \concent-i18n\src\model.js
  * ___
  */
 import { configure, getState } from 'concent';

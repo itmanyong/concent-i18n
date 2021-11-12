@@ -1,3 +1,12 @@
+/*
+ * @Author: itmanyong
+ * @Date: 2021-07-28 09:23:49
+ * @LastEditTime: 2021-11-12 14:06:29
+ * @LastEditors: itmanyong
+ * @Description: 
+ * @FilePath: \concent-i18n\src\index.js
+ * ___
+ */
 import { RenderI18nKeyToText as _RenderI18nKeyToText, renderI18nKeyToText as _renderI18nKeyToText } from './renderLocaleText';
 import { useI18nComputed as _useI18nComputed, useI18nText as _useI18nText, useI18nState as _useI18nState } from './hooks';
 import {
@@ -9,7 +18,7 @@ import {
 	getComputed as _getComputed,
 	getLocaleText as _getLocaleText,
 } from './funcs';
-import {registerI18n as _registerI18n} from './model';
+import { registerI18n as _registerI18n } from './model';
 
 export const RenderI18nKeyToText = _RenderI18nKeyToText;
 export const renderI18nKeyToText = _renderI18nKeyToText;
